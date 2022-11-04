@@ -24,4 +24,6 @@ namespace modeified to reflect the project
 Delete default Class1.css file in all projects
 build the project
 Modify Views>shared>Erro.cshtml
+commwnted
+
 
