@@ -21,4 +21,7 @@ MIcrosoft.EntityFrmaworkCore.Relational and Core.sqlserver are installed
 Migration folder is deleted
 NuGet package is installed 
 namespace modeified to reflect the project
+Delete default Class1.css file in all projects
+build the project
+Modify Views>shared>Erro.cshtml
 
